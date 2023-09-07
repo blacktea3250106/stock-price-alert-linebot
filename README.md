@@ -48,9 +48,9 @@ Install the required Python packages:
 Configuration
 Before using the Stock Price Alert Bot, you need to configure the following settings in app.py:
 
-{channel_access_token}: Your Line Messaging API channel access token.
-{channel_secret}: Your Line Messaging API channel secret.
-{user_id}: The Line user ID to which the bot will send alerts.
+ - channel_access_token: Your Line Messaging API channel access token.
+ - channel_secret: Your Line Messaging API channel secret.
+ - user_id: The Line user ID to which the bot will send alerts.
 
 ## Running the Bot
 1. Start your Flask application:
