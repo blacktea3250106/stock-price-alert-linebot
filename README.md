@@ -73,7 +73,7 @@ To set a price alert: <stock_code> <comparison_operator> <target_price> (e.g., 2
 To set a price alert: <stock_code> <comparison_operator> <target_price> (e.g., 0050 < 200).
 
 ## Acknowledgments
-For deploying the bot to a production environment, consider using a hosting service and follow best practices for securing your application.
+We would like to extend our gratitude to PChome for providing valuable resources for this project.
 
 ## License
 This project is licensed under the MIT License.
