@@ -1,5 +1,7 @@
 # Stock Price Alert LineBot
 
+<img src="screenshots/stock-price-alert-linebot.gif" width="640" height="360">
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -67,6 +69,7 @@ Before using the Stock Price Alert Bot, you need to configure the following sett
 Interact with the bot by sending it commands in the following format:
 
 To set a price alert: <stock_code> <comparison_operator> <target_price> (e.g., 2330 > 350).
+
 To set a price alert: <stock_code> <comparison_operator> <target_price> (e.g., 0050 < 200).
 
 ## Acknowledgments
