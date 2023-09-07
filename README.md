@@ -1,6 +1,6 @@
 # Stock Price Alert LineBot
 
-<img src="screenshots/stock-price-alert-linebot.gif" width="640" height="360">
+<img src="screenshots/stock-price-alert-linebot.gif" width="800" height="450">
 
 ## Table of Contents
 - [Introduction](#introduction)
